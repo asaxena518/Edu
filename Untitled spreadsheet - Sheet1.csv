@@ -1,0 +1,185 @@
+Country,Rank,Education index,Education Expenditure Per Capita
+Afghanistan,141,0.415,$19
+Albania,55,0.745,$211
+Algeria,86,0.664,$240
+Andorra,67,0.714,"$1,282"
+Angola,124,0.498,$48
+Antigua and Barbuda,85,0.676,$465
+Argentina,34,0.816,$483
+Armenia,54,0.749,$115
+Australia,2,0.929,"$2,875"
+Austria,23,0.852,"$2,678"
+Azerbaijan,70,0.709,$129
+Bahamas,62,0.726,$633
+Bahrain,53,0.758,$549
+Bangladesh,120,0.508,$25
+Barbados,48,0.777,$701
+Belarus,28,0.838,$323
+Belgium,15,0.893,"$3,041"
+Belize,73,0.705,$300
+Benin,130,0.471,$36
+Bhutan,134,0.445,$234
+Bolivia,81,0.687,$227
+Botswana,89,0.659,$501
+Brazil,82,0.686,$560
+Brunei,74,0.704,"$1,209"
+Bulgaria,38,0.805,$344
+Burkina Faso,159,0.286,$46
+Burundi,140,0.424,$14
+Cambodia,126,0.487,$34
+Cameroon,113,0.547,$48
+Canada,13,0.899,"$2,751"
+Cape Verde,111,0.555,$171
+Central African Republic,151,0.341,$8
+Chad,156,0.298,$17
+Chile,39,0.8,$856
+China,91,0.644,$349
+Colombia,85,0.676,$295
+Comoros,129,0.473,$31
+Costa Rica,65,0.719,$817
+Croatia,42,0.791,$532
+Cuba,46,0.78,$681
+Cyprus,37,0.808,"$1,539"
+Czech Republic,15,0.893,"$1,001"
+Democratic Republic of the Congo,125,0.496,$7
+Denmark,3,0.92,"$4,479"
+Djibouti,155,0.309,$114
+Dominica,101,0.613,$350
+Dominican Republic,92,0.643,$348
+Ecuador,76,0.697,$234
+Egypt,102,0.604,$147
+El Salvador,105,0.58,$141
+Equatorial Guinea,135,0.443,$22
+Eritrea,160,0.281,$7
+Estonia,19,0.869,"$1,209"
+Ethiopia,154,0.327,$43
+Federated States of Micronesia,104,0.59,$374
+Fiji,45,0.785,$311
+Finland,10,0.905,"$3,137"
+France,27,0.84,"$2,329"
+Gabon,96,0.628,$215
+Georgia,25,0.845,$164
+Germany,1,0.94,"$2,396"
+Ghana,108,0.558,$91
+Greece,28,0.838,$710
+Grenada,53,0.758,$372
+Guatemala,119,0.514,$142
+Guinea,152,0.339,$24
+Guinea-Bissau,144,0.392,$22
+Guyana,103,0.596,$272
+Haiti,138,0.433,$25
+Honduras,123,0.502,$126
+Hong Kong,22,0.855,"$2,046"
+Hungary,35,0.815,$760
+Iceland,8,0.912,"$5,709"
+India,110,0.556,$60
+Indonesia,98,0.622,$119
+Iran,56,0.741,$289
+Iraq,114,0.534,$138
+Ireland,4,0.918,"$2,667"
+Israel,18,0.874,"$2,594"
+Italy,42,0.791,"$1,486"
+Ivory Coast,140,0.424,$84
+Jamaica,79,0.69,$255
+Japan,24,0.848,"$1,235"
+Jordan,68,0.711,$132
+Kazakhstan,36,0.814,$279
+Kenya,112,0.551,$96
+Kiribati,99,0.62,$188
+Kuwait,99,0.62,"$1,486"
+Kyrgyzstan,58,0.735,$75
+Laos,127,0.484,$59
+Latvia,20,0.866,$756
+Lebanon,93,0.637,$194
+Lesotho,123,0.502,$71
+Liberia,137,0.434,$14
+Libya,100,0.616,$160
+Liechtenstein,31,0.827,"$4,022"
+Lithuania,17,0.879,$748
+Luxembourg,41,0.792,"$4,343"
+Madagascar,124,0.498,$16
+Malawi,132,0.451,$18
+Malaysia,65,0.719,$468
+Maldives,107,0.56,$435
+Mali,158,0.293,$30
+Malta,33,0.818,"$1,364"
+Marshall Islands,63,0.723,$386
+Mauritania,146,0.389,$33
+Mauritius,60,0.729,$398
+Mexico,84,0.678,$415
+Moldova,69,0.71,$273
+Mongolia,50,0.766,$213
+Morocco,115,0.529,$200
+Mozambique,147,0.385,$32
+Namibia,106,0.571,$399
+Nepal,123,0.502,$52
+Netherlands,9,0.906,"$2,852"
+New Zealand,5,0.917,"$2,587"
+Nicaragua,108,0.558,$67
+Niger,161,0.214,$20
+Nigeria,128,0.483,$13
+Norway,6,0.915,"$6,274"
+Oman,72,0.706,$895
+Pakistan,143,0.411,$37
+Palau,26,0.844,$628
+Panama,77,0.692,$497
+Papua New Guinea,139,0.43,$54
+Paraguay,95,0.631,$184
+Peru,80,0.689,$267
+Philippines,87,0.661,$114
+Poland,20,0.866,$714
+Portugal,52,0.759,"$1,102"
+Qatar,75,0.698,"$1,716"
+Republic of the Congo,117,0.526,$109
+Romania,51,0.762,$413
+Russia,29,0.832,$527
+Rwanda,133,0.45,$27
+Saint Kitts and Nevis,83,0.68,$467
+Saint Lucia,85,0.676,$314
+Saint Vincent and the Grenadines,90,0.655,$457
+Samoa,77,0.692,$196
+São Tomé and Príncipe,109,0.557,$119
+Saudi Arabia,44,0.787,"$1,036"
+Senegal,149,0.368,$76
+Serbia,47,0.778,$268
+Seychelles,61,0.727,$675
+Sierra Leone,145,0.39,$47
+Singapore,29,0.832,"$1,522"
+Slovakia,30,0.831,$772
+Slovenia,16,0.886,"$1,294"
+Solomon Islands,131,0.469,$220
+Somalia,#N/A,#N/A,$2
+South Africa,71,0.708,$385
+South Korea,21,0.862,"$1,490"
+South Sudan,157,0.297,$3
+Spain,32,0.824,"$1,271"
+Sri Lanka,54,0.749,$87
+Sudan,153,0.328,$31
+Suriname,94,0.636,$482
+Swaziland,116,0.528,$183
+Sweden,11,0.904,"$4,149"
+Switzerland,14,0.897,"$4,217"
+Syria,142,0.412,$131
+Tajikistan,89,0.659,$51
+Tanzania,136,0.441,$33
+Thailand,87,0.661,$232
+The Gambia,148,0.372,$22
+Togo,121,0.506,$44
+Tonga,49,0.77,$406
+Trinidad and Tobago,64,0.722,$610
+Tunisia,89,0.659,$285
+Turkey,80,0.689,$408
+Turkmenistan,97,0.626,$278
+Uganda,118,0.525,$27
+Ukraine,40,0.794,$201
+United Arab Emirates,57,0.738,"$1,362"
+United Kingdom,7,0.914,"$2,290"
+United States,12,0.903,"$2,733"
+Uruguay,59,0.733,$828
+Uzbekistan,66,0.718,$90
+Vanuatu,115,0.529,$69
+Venezuela,56,0.741,$66
+Vietnam,97,0.626,$138
+Yemen,150,0.349,$62
+Zambia,105,0.58,$57
+Zimbabwe,108,0.558,$92
